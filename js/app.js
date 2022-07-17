@@ -3,3 +3,4 @@ const User1 = {
 	age: 16,
 	sex: 'man'
 }
+console.log(User1);
