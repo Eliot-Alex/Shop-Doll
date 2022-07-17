@@ -1,0 +1,12 @@
+* {
+	* padding: 0px;
+	* margin: 0px;
+	* box-sizing: brder-box;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	background-color: black;
+}
+
+
